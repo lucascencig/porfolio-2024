@@ -38,7 +38,7 @@ const Main = () => {
           </div>
 
           <div className='flex justify-center mt-6'>
-            <a href='https://drive.google.com/file/d/1DqmKzTaHkXFNPuDESDLe0jEOuIgUYobw/view?usp=sharing' target='_blank' className='bg-[#001b5e] text-gray-100 font-semibold  w-full flex justify-center items-center rounded-lg shadow-lg  shadow-gray-400  p-4 cursor-pointer hover:scale-110 ease-in duration-200 hover:bg-[#02298d]'>Resume</a>
+            <a href='https://drive.google.com/file/d/1yKNB6oudNO7FQVyc8ozzivdojoCN2hL7/view?usp=sharing' target='_blank' className='bg-[#001b5e] text-gray-100 font-semibold  w-full flex justify-center items-center rounded-lg shadow-lg  shadow-gray-400  p-4 cursor-pointer hover:scale-110 ease-in duration-200 hover:bg-[#02298d]'>Resume</a>
           </div>
         </div>
       </div>
