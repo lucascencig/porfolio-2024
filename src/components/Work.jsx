@@ -13,14 +13,14 @@ const data = [
     year: 2022,
     title: 'Full Stack Teaching Assisttant - Soy Henry',
     duration: 'Apr-2022 - Nov-2022',
-    details: 'Coordinate a group of students to achieve integration into the study team. Assist in solving exercises and promoting group collaboration (Pair Programming). Assist in solving exercises and promoting group collaboration (Pair Programming)'
+    details: 'Coordinate a group of students to achieve integration into the study team. Assist in solving exercises and promoting group collaboration (Pair Programming).'
   },
   {
     year: 2022,
     title: 'Click Experts (Full Stack Developer)',
     duration: 'Nov-2022 - Apr-2023',
-    details: ` Developed a mass email automation system for American Express, using JavaScript, Microsoft Azure, SharePoint, Node.Js.
-     Develop landing pages, dashboards and online applications using React.js, Vue.Js, JavaScript, Node.Js, PHP. 
+    details: ` Developed a mass email automation system for American Express, using JavaScript, Microsoft Azure, SharePoint and Node.Js.
+     Develop landing pages, dashboards and online applications using React.js, Vue.Js, JavaScript, Node.Js and PHP. 
      Design interfaces and Front-End elements, maintain and optimize websites and interfaces.`
   }
 ]
