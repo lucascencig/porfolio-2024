@@ -17,7 +17,7 @@ const data = [
   },
   {
     year: 2022,
-    title: 'Click Experts (Full Stack Developer',
+    title: 'Click Experts (Full Stack Developer)',
     duration: 'Nov-2022 - Apr-2023',
     details: 'Developed a mass email automation system for American Express, using JavaScript, Microsoft Azure, SharePoint, Node.Js. Develop landing pages, dashboards and online applications using React.js, Vue.Js, JavaScript, Node.Js, PHP. Design interfaces and Front-End elements, maintain and optimize websites and interfaces.'
   }
