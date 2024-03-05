@@ -1,5 +1,6 @@
 import React from 'react'
 import WorkItem from './WorkItem'
+// import { PinContainer } from './ProjectsItem'
 
 
 const data = [
@@ -40,6 +41,7 @@ const Work = () => {
               duration={item.duration}
               details={item.details}
             />
+            // <PinContainer />
           )
         })
       }

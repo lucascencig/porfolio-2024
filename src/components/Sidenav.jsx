@@ -67,11 +67,11 @@ const Sidenav = () => {
           </a>
 
           <a href="#work" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300 hover:bg-[#001b5e] hover:text-white'>
-            <GrProjects size={20} />
+            <AiOutlineProject size={20} />
           </a>
 
           <a href="#projects" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300 hover:bg-[#001b5e] hover:text-white'>
-            <AiOutlineProject size={20} />
+            <GrProjects size={20} />
           </a>
 
           <a href="#skills" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300 hover:bg-[#001b5e] hover:text-white'>
