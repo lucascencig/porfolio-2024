@@ -35,7 +35,7 @@ const Projects = () => {
       <h1 className='text-5xl font-bold text-center text-[#001b5e]'>Projects</h1>
       <p className='text-center py-8 px-4 font-bold text-2xl'>Here you can see some projects I was working on!</p>
       <div className='grid sm:grid-cols-2 gap-12'>
-        <ProjectsItem img={project2} title='Brainweb' tools={'React, Vite, Tailwind, CSS3'} redirectUrl='https://chat-web-design.vercel.app/' />
+        <ProjectsItem img={project2} title='Brainwave' tools={'React, Vite, Tailwind, CSS3'} redirectUrl='https://chat-web-design.vercel.app/' />
         <ProjectsItem img={project1} title='Chat Online' tools={'React, Tailwind, Vite, Node.js, Express, Socketio'} redirectUrl='https://chat-online-blue.vercel.app/' />
         <ProjectsItem img={project6} title='Nike Landing Page' tools={'React, JavaScript, Tailwind'} redirectUrl='https://nike-landing-page-mu-nine.vercel.app/' />
         <ProjectsItem img={project3} title='Tic-Tae-Toe' tools={'React, Vite, JavaScript, CSS3'} redirectUrl='https://tateti-ten.vercel.app/' />
